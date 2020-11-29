@@ -5,7 +5,7 @@ Bienvenue sur le projet des vidéos YouTube te montrant comment créer ce jeu gr
 ## Récupération et lancement du projet
 
 ```
-git clone https://github.com/ThomasAtome/le-just-prix-app.git
+git clone https://github.com/ThomasAtome/le-juste-prix-app.git
 cd le-juste-prix-app
 npm i -g nodemon
 npm i
